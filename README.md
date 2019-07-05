@@ -1,3 +1,3 @@
 # oracleDB
 database note
-### Á¦¸ñ3 »çÀÌÁî 
+### ì œëª©3 
