@@ -1,3 +1,3 @@
 # oracleDB
 database note
-### 力格3 荤捞令 
+### 力格3
